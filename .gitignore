@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+models/model-r100-ii/
+
+models/ssh-model-final/
+
+*.zip
